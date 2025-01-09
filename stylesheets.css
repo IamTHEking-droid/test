@@ -7,6 +7,8 @@ body{
     /*background-color: #333;
     color: white;*/
 }
+
+
 .produktet{
     display: flex;
     flex-direction: column;
@@ -67,4 +69,21 @@ body{
 }
 .item3{
     font-family: 'Times New Roman', Times, serif;
+}
+@media (max-width: 767px) {
+    .separateimage{
+        display: flex;
+        flex-direction: column;
+        justify-content: space-evenly;
+    }
+}
+@media (max-width: 768px) {
+    .separateimage{
+        display: flex;
+        flex-direction: row;
+        width: 80vw;
+        justify-content: space-evenly;
+        gap:100px;
+        height: 100vh;
+    }
 }

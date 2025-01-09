@@ -16,7 +16,7 @@ body{
 .separateimage{
     display: flex;
     flex-direction: row;
-    width: 80%;
+    width: 80vw;
     justify-content: space-evenly;
     gap:100px;
     height: 100vh;
@@ -43,7 +43,7 @@ body{
     display: flex;
     flex-direction: column;
     align-items: center;
-    width: 60%;
+    width: 60vw;
     height: 100vh;
 }
 .blackbar{

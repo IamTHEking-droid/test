@@ -86,7 +86,7 @@ body{
 }
 
 @media (max-width: 1200px) {
-.orangeborder.item2{
+.orangeborder{
     height:20%; 
     width:auto; 
 }

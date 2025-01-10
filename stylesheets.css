@@ -41,8 +41,9 @@ body{
 .orangeborder{
     border-radius: 25%;
     box-shadow: 0px 0px  12px 12px  lightsalmon;
-    height:20%; 
-    width:auto; 
+    height:50%; 
+    width:auto;
+    
 }
 .kontakt{
     display: flex;
@@ -85,7 +86,8 @@ body{
 @media (max-width: 1200px) {
 .orangeborder{
     
-    height:50%; 
+     
+    height:20%; 
     width:auto; 
 }
     .separateimage {

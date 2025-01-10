@@ -85,8 +85,6 @@ body{
 
 @media (max-width: 1200px) {
 .orangeborder{
-    
-     
     height:20%; 
     width:auto; 
 }
@@ -96,11 +94,7 @@ body{
         gap: 20px;
     }
 
-    img.item2, img.orangeborder {
-
-        max-width: 80%;
-    }
-    
+   
 
     .blackbar {
         font-size: large;

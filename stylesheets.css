@@ -3,7 +3,7 @@ body{
     display: flex;
     font-size: x-large;
     flex-direction: column;
-    flex-wrap:wrap-reverse;
+    
     align-items: center;
     /*background-color: #333;
     color: white;*/

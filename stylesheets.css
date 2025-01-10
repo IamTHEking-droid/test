@@ -37,6 +37,8 @@ body{
 .item2{
     border-radius: 25%;
     box-shadow: 0px 0px  12px 12px  lightblue;
+    height:50%; 
+    width:auto; 
 }
 .orangeborder{
     border-radius: 25%;
@@ -84,7 +86,7 @@ body{
 }
 
 @media (max-width: 1200px) {
-.orangeborder{
+.orangeborder.item2{
     height:20%; 
     width:auto; 
 }

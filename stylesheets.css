@@ -37,6 +37,8 @@ body{
 .item2{
     border-radius: 25%;
     box-shadow: 0px 0px  12px 12px  lightblue;
+    height:25%;
+    width:auto;
 }
 .orangeborder{
     border-radius: 25%;
